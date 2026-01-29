@@ -29,7 +29,7 @@ A real-time auction platform where users compete to buy items in the final secon
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/live-bidding-platform.git
+git clone https://github.com/aliiimazzhar/live-bidding-platform.git
 cd live-bidding-platform
 
 # Install all dependencies
